@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+ecommerce.db
+ecommerce.db.bak
+*.db.bak
+*.db-wal
+*.db-shm
+.streamlit/secrets.toml
